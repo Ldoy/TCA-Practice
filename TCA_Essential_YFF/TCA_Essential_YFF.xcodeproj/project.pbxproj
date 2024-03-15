@@ -14,6 +14,7 @@
 		A85EB9DA2BA3EBE0008B2482 /* ComposableArchitecture in Frameworks */ = {isa = PBXBuildFile; productRef = A85EB9D92BA3EBE0008B2482 /* ComposableArchitecture */; };
 		A85EB9DC2BA3EC85008B2482 /* CounterFeature.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EB9DB2BA3EC85008B2482 /* CounterFeature.swift */; };
 		A85EB9DE2BA3EFF4008B2482 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EB9DD2BA3EFF4008B2482 /* CounterView.swift */; };
+		A85EB9E02BA42383008B2482 /* DeepDiveReducer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85EB9DF2BA42383008B2482 /* DeepDiveReducer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A85EB9D12BA3EB63008B2482 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A85EB9DB2BA3EC85008B2482 /* CounterFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterFeature.swift; sourceTree = "<group>"; };
 		A85EB9DD2BA3EFF4008B2482 /* CounterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		A85EB9DF2BA42383008B2482 /* DeepDiveReducer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepDiveReducer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A85EB9CC2BA3EB62008B2482 /* ContentView.swift */,
 				A85EB9DD2BA3EFF4008B2482 /* CounterView.swift */,
 				A85EB9DB2BA3EC85008B2482 /* CounterFeature.swift */,
+				A85EB9DF2BA42383008B2482 /* DeepDiveReducer.swift */,
 				A85EB9CE2BA3EB63008B2482 /* Assets.xcassets */,
 				A85EB9D02BA3EB63008B2482 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				A85EB9CD2BA3EB62008B2482 /* ContentView.swift in Sources */,
 				A85EB9CB2BA3EB62008B2482 /* TCA_Essential_YFFApp.swift in Sources */,
 				A85EB9DE2BA3EFF4008B2482 /* CounterView.swift in Sources */,
+				A85EB9E02BA42383008B2482 /* DeepDiveReducer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
