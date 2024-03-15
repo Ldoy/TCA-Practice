@@ -8,7 +8,7 @@
 import Foundation
 import ComposableArchitecture
 
-//Reduce 간단화 해보기
+//MARK: - Reduce 간단화 해보기
 protocol CustomReducer {
     associatedtype State
     associatedtype Action
